@@ -6,6 +6,12 @@ A full-stack AI chatbot built using HTML, CSS, JavaScript, Node.js, Express, and
 
 https://first-website-chatbot.onrender.com
 
+
+## 📄 Documentation
+
+[View Technical Report](AI_chatbot_technical_report.pdf)
+
+
 ## ✨ Features
 
 * Real-time AI conversations
